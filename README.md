@@ -22,19 +22,19 @@ A Flask-based web application that predicts house prices using a machine learnin
 - Python 3.8+
 - pip package manager
 
-### Setup Instructions ###
+### Setup Instructions
 
 1. Clone the repository:
 
-git clone https://github.com/Tushard7577/House-Price-prediction-Flask-app-.git
-cd House Price prediction Flask app
+   git clone https://github.com/Tushard7577/House-Price-prediction-Flask-app-.git
+   cd House Price prediction Flask app
 
 2. Create and activate virtual environment:
 
 python -m venv venv
-# On Windows:
+On Windows:
 .\venv\Scripts\activate
-# On macOS/Linux:
+On macOS/Linux:
 source venv/bin/activate
 
 3. Install dependencies:
@@ -49,7 +49,7 @@ python app.py
 
 Open http://localhost:5000 in your web browser.
 
-## Usage ##
+## Usage 
 
 Fill out the form with property details:
 Basic features (bedrooms, bathrooms, square ft)
