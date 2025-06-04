@@ -11,10 +11,10 @@ A Flask-based web application that predicts house prices using a machine learnin
 
 ## Technologies Used
 
-- **Backend**: Python 3.8+, Flask 2.3.2
+- **Backend**: Python , Flask 
 - **Frontend**: HTML5, CSS3
-- **Machine Learning**: Scikit-learn 1.3.0
-- **Data Processing**: Pandas 2.0.3
+- **Machine Learning**: Scikit-learn 
+- **Data Processing**: Pandas 
 
 ## Installation
 
